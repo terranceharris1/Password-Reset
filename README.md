@@ -37,5 +37,8 @@ Password successfully reset and account access restored. User regained access in
 
 ## 📸 Screenshots
 
-![Ticket](assets/ticket.png)
+![Ticket](pw-ticket.PNG)
+![Chat](pw-chat.PNG
+![mfa](pw-mfa.PNG)
+![close](pw-close.PNG)
 
